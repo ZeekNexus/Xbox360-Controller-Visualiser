@@ -1,0 +1,16 @@
+.button {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+#startinfo {
+    text-align: center;
+    width:100%;
+    position:absolute;
+    bottom: 5px;
+}
+
+#info {
+    font-size: 1.5rem;
+}
