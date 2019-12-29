@@ -1,6 +1,6 @@
 # Xbox360-Controller-Visualiser
-For my old rip-off model of the wireless xbox360 controller 
-known to work on firefox & chrome on ubuntu 18.04.3 LTS
+- For my old rip-off model of the wireless xbox360 controller 
+- known to work on firefox & chrome
 
 # host index.html from python:
   `python3 -m http.server`
